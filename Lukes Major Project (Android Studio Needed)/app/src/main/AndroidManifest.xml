@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.steam.myapplication">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="School Communication App"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:theme="@style/Theme.AppCompat.NoActionBar">
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".login" />
+        <activity android:name=".CommunicationClass" />
+        <activity android:name=".highlevelstaff" />
+        <activity android:name=".highlevelinfo" />
+        <activity android:name=".delete" />
+        <activity android:name=".Chat" />
+        <activity android:name=".Feedback" />
+        <activity android:name=".checkfeedback"></activity>
+    </application>
+
+</manifest>

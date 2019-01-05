@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="log_in">Log In</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="submit">Submit</string>
+    <string name="teachers_and_others">Teachers and Others</string>
+    <string name="title_activity_teachers_and_others_logged_in">teachersAndOthersLoggedIn</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="custodians">Custodians</string>
+    <string name="log_in1">Log In</string>
+    <string name="high_level_staff">High Level Staff</string>
+    <string name="log_in2">Log In</string>
+    <string name="title_activity_custodians">Custodians</string>
+</resources>
